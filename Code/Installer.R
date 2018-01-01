@@ -1,0 +1,13 @@
+install.packages('stats');
+install.packages('class');
+install.packages('rpart');
+install.packages('randomForest')
+install.packages('ISLR')
+install.packages('caret')
+install.packages('cvAUC')
+install.packages('e1071')
+install.packages('ggplot2')
+install.packages("gplots")
+install.packages("mlbench")
+install.packages('adabag')
+install.packages('inTrees')
